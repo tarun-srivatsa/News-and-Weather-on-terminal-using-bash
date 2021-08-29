@@ -1,7 +1,9 @@
 # News-and-Weather-on-terminal-using-bash
 
 This is a bash script. No additional files are required to run it as everything is handled within the script.
-Screenshots are just samples to show the layout of output. '\n'
+#
+Screenshots are just samples to show the layout of output.
+#
 News data is scraped from Times of India RSS feeds, weather data is scraped from http://wttr.in. Project is purely educational.
 
 ## Code
